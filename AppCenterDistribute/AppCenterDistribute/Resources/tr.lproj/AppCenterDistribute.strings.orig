@@ -1,0 +1,22 @@
+/*
+ * Update dialog buttons
+ */
+"MSDistributeUpdateNow" = "Şimdi güncelleştir";
+"MSDistributeAskMeInADay" = "Bir gün içinde sor";
+"MSDistributeViewReleaseNotes" = "Sürüm notlarını görüntüle";
+"MSDistributeClose" = "Kapat";
+<<<<<<< HEAD
+"MSDistributeIgnore" = "Ignore";
+"MSDistributeReinstall" = "Reinstall app";
+=======
+"MSDistributeIgnore" = "Görmezden";
+"MSDistributeReinstall" = "Uygulamayı yeniden yükle";
+>>>>>>> dcedea64... Translating new strings manually
+
+/*
+ * Update dialog titles/messages
+ */
+"MSDistributeAppUpdateAvailable" = "Uygulama güncelleştirmesi kullanılabilir";
+"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "Bu uygulamanın geliştiricileri %@ %@ (%@) sürümüne güncelleştirmenizi gerektiriyor.";
+"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@), indirme ve yükleme için hazır.";
+"MSDistributeInAppUpdatesAreDisabled" = "Uygulama içi güncelleştirmeler devre dışı.";
